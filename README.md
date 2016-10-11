@@ -1,10 +1,10 @@
 # Magento SOAP API Wrapper
 
-This wrapper lets you talk to Magento via SOAP.
+This wrapper lets you talk to Magento via SOAP. This is the most reliable and up to date magento wrapper, with lots of bug fixes.
 
 ## Installation
 
-`npm install git+ssh://git@bitbucket.org/icecom/magentoapi.git`
+`npm install git+ssh://git@github.com/wolakec/magento-api-xmlrpc.gitt`
 
 ## Usage
 
