@@ -1,0 +1,28 @@
+{
+  "name": "magento-api",
+  "author": "Ian Graham <ian.graham@ice.com>",
+  "description": "Magento SOAP API wrapper for Node.js",
+  "version": "0.3.1",
+  "main": "./src/magento",
+  "contributors": [
+    {
+      "name": "Ian Graham",
+      "email": "ian.graham@ice.com"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.20"
+  },
+  "dependencies" : {
+    "request": "2.34.0",
+    "xmlrpc": "1.2.0"
+  },
+  "keywords": [
+    "magento",
+    "soap",
+    "api",
+    "xml"
+  ],
+  "repository": "git://bitbucket.org/icecom/magentoapi",
+  "license": "MIT"
+}
