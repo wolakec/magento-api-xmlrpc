@@ -4,7 +4,7 @@ This wrapper lets you talk to Magento via SOAP. This is the most reliable and up
 
 ## Installation
 
-`npm install git+ssh://git@github.com/wolakec/magento-api-xmlrpc.gitt`
+`npm install git+ssh://git@github.com/wolakec/magento-api-xmlrpc.git`
 
 ## Usage
 
