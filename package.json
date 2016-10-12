@@ -1,7 +1,7 @@
 {
   "name": "magento-api-xmlrpc",
   "author": "Wol Akec <wolakec@live.com>",
-  "description": "Magento SOAP API wrapper for Node.js. This is the most reliable and up to date wrapper, including bug fixes.",
+  "description": "Magento XMLRPC wrapper for Node.js. This is the most reliable and up to date wrapper, including bug fixes.",
   "version": "0.3.3",
   "main": "./src/magento",
   "contributors": [
@@ -19,7 +19,6 @@
   },
   "keywords": [
     "magento",
-    "soap",
     "api",
     "xml",
     "xml-rpc"

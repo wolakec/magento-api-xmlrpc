@@ -1,4 +1,4 @@
-# Magento SOAP API Wrapper
+# Magento XMLRPC API Wrapper
 
 This wrapper lets you talk to Magento via SOAP. This is the most reliable and up to date magento wrapper, with lots of bug fixes.
 
