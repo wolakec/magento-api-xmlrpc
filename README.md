@@ -2,6 +2,10 @@
 
 This wrapper lets you talk to Magento via SOAP. This is the most reliable and up to date magento wrapper, with lots of bug fixes.
 
+Original wrapper: bitbucket.org/icecom/magentoapi , developed by https://www.npmjs.com/~icecom and https://www.npmjs.com/~2ps. 
+
+This copy exists so I can rapidly fix any bugs I run into.
+
 ## Installation
 
 `npm install git+ssh://git@github.com/wolakec/magento-api-xmlrpc.git`
