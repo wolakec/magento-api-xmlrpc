@@ -2,7 +2,7 @@
   "name": "magento-api-xmlrpc",
   "author": "Wol Akec <wolakec@live.com>",
   "description": "Magento XMLRPC wrapper for Node.js. This is the most reliable and up to date wrapper, including bug fixes.",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "main": "./src/magento",
   "contributors": [
     {
@@ -13,7 +13,7 @@
   "engines": {
     "node": ">=0.10.20"
   },
-  "dependencies" : {
+  "dependencies": {
     "request": "2.34.0",
     "xmlrpc": "1.2.0"
   },
