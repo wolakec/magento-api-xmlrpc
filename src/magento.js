@@ -40,7 +40,8 @@ var resources = {
   salesOrderInvoice: './resources/sales_order_invoice.js',
   salesOrderShipment: './resources/sales_order_shipment.js',
   store: './resources/store.js',
-  uniquecoupons: './resources/uniquecoupons.js'
+  uniquecoupons: './resources/uniquecoupons.js',
+  webservices: './resources/webservices.js'
 };
 var mandatory = {};
 var configDefaults = {
