@@ -22,6 +22,10 @@ var protos = {
      */
     createNewGuestOrder: {
         mandatory: 'data',
+    },
+
+    syncConfigurableProduct: {
+        mandatory: 'data',
     }
 };
 
