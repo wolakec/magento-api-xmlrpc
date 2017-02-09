@@ -26,6 +26,10 @@ var protos = {
 
     syncConfigurableProduct: {
         mandatory: 'data',
+    },
+
+    syncSimpleProduct: {
+        mandatory: 'data',
     }
 };
 
