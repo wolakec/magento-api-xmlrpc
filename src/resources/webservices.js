@@ -30,6 +30,10 @@ var protos = {
 
     syncSimpleProduct: {
         mandatory: 'data',
+    },
+
+    syncCustomer: {
+        mandatory: 'data',
     }
 };
 
